@@ -1,2 +1,2 @@
 # Long-Run-Economic-Growth
-Quant Economics proyecto. Credits to QuantEcon.
+Proyecto de crecimiento económico con python. Credits to QuantEcon.
