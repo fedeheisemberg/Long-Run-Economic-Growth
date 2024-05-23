@@ -1,7 +1,7 @@
 Long Run Growth - Economics Python Project
 ==============================
 
-utilizaremos Python, pandas y Matplotlib para descargar, organizar y visualizar datos históricos sobre el crecimiento económico.
+Utilizaremos Python, pandas y Matplotlib para descargar, organizar y visualizar datos históricos sobre el crecimiento económico. CREDITOS A QUANTECON.
 
 Project Organization
 ------------
